@@ -1,0 +1,33 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+form {
+  max-width: 500px;
+  text-align: left;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: auto;
+}
+input {
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+}
+.input-element {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+select {
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+}
+input[type="checkbox"] {
+  width: 15px;
+  height: 15px;
+}
+
+
